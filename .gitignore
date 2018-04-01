@@ -1,0 +1,3 @@
+# git ignores these
+*.DS_Store
+kgsya_pg_list.txt
